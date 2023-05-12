@@ -1,0 +1,7 @@
+network_file: network.txt
+initial_rumor_count: 5
+stop.at: 100
+rumor_probability: 0.1
+dt: 0.1
+counts_file: output/rumor_counts.csv
+
